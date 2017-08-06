@@ -1,0 +1,6 @@
+D:\Ram-University\INT4101\DESDemo\DESDemo\bin\Debug\DESDemo.exe
+D:\Ram-University\INT4101\DESDemo\DESDemo\bin\Debug\DESDemo.pdb
+D:\Ram-University\INT4101\DESDemo\DESDemo\obj\Debug\DESDemo.csprojResolveAssemblyReference.cache
+D:\Ram-University\INT4101\DESDemo\DESDemo\obj\Debug\DESDemo.csproj.CoreCompileInputs.cache
+D:\Ram-University\INT4101\DESDemo\DESDemo\obj\Debug\DESDemo.exe
+D:\Ram-University\INT4101\DESDemo\DESDemo\obj\Debug\DESDemo.pdb

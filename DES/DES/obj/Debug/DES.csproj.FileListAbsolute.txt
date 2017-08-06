@@ -1,0 +1,7 @@
+D:\Ram-University\INT4101\DES\DES\bin\Debug\DES.exe.config
+D:\Ram-University\INT4101\DES\DES\bin\Debug\DES.exe
+D:\Ram-University\INT4101\DES\DES\bin\Debug\DES.pdb
+D:\Ram-University\INT4101\DES\DES\obj\Debug\DES.csprojResolveAssemblyReference.cache
+D:\Ram-University\INT4101\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+D:\Ram-University\INT4101\DES\DES\obj\Debug\DES.exe
+D:\Ram-University\INT4101\DES\DES\obj\Debug\DES.pdb
